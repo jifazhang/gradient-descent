@@ -1,1 +1,2 @@
-# gradient-descent
+# gradient-descent method in matlab
+
